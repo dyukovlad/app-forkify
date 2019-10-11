@@ -139,7 +139,6 @@ elements.shopping.addEventListener('click', e => {
     }
 });
 
-
 /** 
  * LIKE CONTROLLER
  */
